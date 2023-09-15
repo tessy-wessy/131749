@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821951291513",
+    "project_id": "trees-a570f",
+    "storage_bucket": "trees-a570f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821951291513:android:9140e848355f76b52774a8",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQG6TxrxJMbfU6hxHWqUrA-2vXsyvOp0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
